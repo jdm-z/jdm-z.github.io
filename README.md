@@ -6,6 +6,8 @@
     <title>My GitHub Website</title>
 </head>
 <body>
-    <h1>Hello World! Welcome to my website.</h1>
+    <h1>Portfolio.</h1>
 </body>
 </html>
+
+<p>Hello< I am currently a junior at North Clarkstown High School</p>
