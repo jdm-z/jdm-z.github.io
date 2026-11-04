@@ -10,4 +10,4 @@
 </body>
 </html>
 
-<p>Hello< I am currently a junior at North Clarkstown High School</p>
+<p>Hello! I am currently a junior at North Clarkstown High School</p>
