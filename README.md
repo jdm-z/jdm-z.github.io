@@ -33,5 +33,7 @@
     <h1>Portfolio.</h1>
     <p>Hello! I am currently a junior at North Clarkstown High School</p>
 
+    <p>I have photolithography research through my Science Research Program at my school for the past year with my poster board of last year being on Stochastic Effects on EUV photolithography</p>
+
 </body>
 </html>
